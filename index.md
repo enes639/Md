@@ -1,19 +1,48 @@
-## Welcome to GitHub Pages
+## Wilkommen zur Github-Seite des Teams A-2 
 
-You can use the [editor on GitHub](https://github.com/Lars202/Md/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+im folgenden text werden werden wir die bemühungen unseres Teams Für das Fach Pr2 bei Frank Dopatka zusammenfassen
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Das Team     
 
-### Markdown
+Unser Team A2 bestand aus erstmals fünf und anschließend aus sechs Mitgliedern, welche alle mit 
+voller Konzentration und Freude dabei waren. 
+Das Team bestand aus den Studenten Alihan Pinarbas, Burak Bingöl, Enes Can Sevim, Lars Stricker
+, Mika Richter und Sopithan Goneswaran. Im Laufe dieses Semesters (Sommersemester 2021) wurde Mika Richter unserer
+Gruppe nachträglich zugeteilt. Dennoch haben wir als Gruppe toll harmoniert.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+### Das Semesterspiel
+
+Die aufgabe an der wir die inhalte dieses semesters gelernt haben sah auf den ersten blick simpel aus:
+das Programmieren eines Uno Spiels.
+Auf drei blätter aufgeteilt mussten wir vom einfachen Uno spiel das in der Konsole von eclips ablief bis zum voll funktionsfähigen Programm als Jar datei mit Grafischer oberfläche ein Uno Spiel entwickeln.
+
+Das Szenario war wie folgt gestellt während Herr Dopatka als unser berater fungierte und sich mit dert vermittlung des theoriestoffes beschäftigte, bildeten Herr Köhler und Herr Arnst den "Kunden" der unser team damit beauftragte ein UNO-Spiel zu entwickeln.
+unklarheiten mussten stets mit dem kunden in einem vorum besprochen werden. Wöchentlich hatten wir die möglichkeit bei einem "Kundentermin" unseren fortschritt vorstellen.
+nun konnte das Programmieren beginnen.
+
+  ### Blatt 1
+  
+  
+  
+  ### Blatt 2
+  
+  Im zweiten blatt lag der fokus darin die innere struktur des spiels zu erweitern.
+  
+  
+  Die erste aufgabe bestand darin den inneren und den äußeren teil des spiels zu trennen, geschehen sollte dies mittels der implementierung von interfaces.
+  Schnell wurden vom kunden extrafunktionalitäten erfragt und so mussten wir zusätzlich zum Normalen Interface für das spiel auch noch ein Erweitertes interface für das manuelle spielen des spiels erstellen
+  
+  
+  ### Blatt 3
+  
+  ```markdown
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
+
 
 - Bulleted
 - List
