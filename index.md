@@ -21,7 +21,41 @@ Das Szenario war wie folgt gestellt während Herr Dopatka als unser berater fung
 unklarheiten mussten stets mit dem kunden in einem vorum besprochen werden. Wöchentlich hatten wir die möglichkeit bei einem "Kundentermin" unseren fortschritt vorstellen.
 nun konnte das Programmieren beginnen.
 
+
+
   ### Blatt 1
+  
+  Im ersten Übungsblatt 'Videos & das Semesterspiel Uno - Basics' wurde gefordert den Grundbaustein für das Uno Programm zu setzen, sowie neue Programme bzw. Werkzeuge kennen zu lernen.
+Das war von großer Bedeutung, da man alle Mittel die uns vorgestellt wurden im Späteren Verlauf des Semester gebraucht hat.
+
+#Einzelarbeit:
+
+Die erste Aufgabe 1a) bestand darin, ein Lehrvideo aufzunehmen. Als Einstieg und als Übung für das Gefühl der Einzelarbeit,gab es auf diese Aufgabe zuerst einmal eine Milde Anzahl an Punkten. 
+Dem Studenten Lars Stricker wurde zum Beispiel das Thema 'Objekt-Eigenschaften-Getter-Setter-Konstruktoren' zugewiesen. Dieses Thema musste ausführlich bearbeitet werden.
+Hier ein Bild zu dem Video:
+
+
+
+In der Aufgabe 1b) bestand ebenfalls darin, ein Lehrvideo aufzunehmen. Hier gab es die doppelte Anzahl an Punkten, weil die Gewöhnungsphase nun vorbei war. Die Themen wurden anspruchsvoller.
+So musste zum Beispiel der Student Alihan Pinarbas das Thema 'Komplexität-O-Notation-P-NP' vorstellen.
+Hier ein Bild zu dem Video:
+
+#Teamarbeit:
+
+
+Wie schon oben erwähnt wurden uns neue Tools/Programme vorgestellt, mit denen wir arbeiten sollten. In der Aufgabe 3 lag der Fokus auf den Umgang mit GitHub. Die Elementaren Aktionen
+mussten angeeignet werden. Des Weiteren war es wichtig ein Repository anzulegen, auf das wir unseren Fortschritt vom UNO Programm 'pushen'konnten, sowie den Fortschritt der erzielt wurde
+'pullen' konnten. Konfliktlösungen waren ebenfalls ein wichtiger Aspekt. Die Kompetenzen mussten dann dem Kunden vorgestellt werden.
+
+
+Die Aufgabe 4 hatte sich auch in zwei Teile aufgeteilt. Die erste Teilaufgabe 4a) mussten zur jeder Klasse im UML-KLassendiagramm (Welches das UNO Programm skizzierte) testgetriebene
+JUnit-Tests erstellt werden. Den Link zum Klassendiagramm finden Sie hier :
+
+Die somit anspruchsvollste Aufgabe in diesem Übungsblatt war die Aufgabe 4b). Hier wurde erwartet die Funktionalität des Spiels anhand der Regeln, welche definiert wurden, zu Programmieren.
+Sowohl alle Bedingungen, als auch alle Sonderfälle und Zustände (Der Spieler,Kartenstock usw.) mussten beim Kunden nachgefragt und anschließend programmiert werden. Außerdem mussten dem Kunden Szenarien präsentiert werden, welche
+die Richtigkeit der Spiellogik aufzeigen sollte. Dabei musste sich jedes Szenario klar von dem vorherigen unterscheiden.
+
+Die letzte Aufgabe dieses Übungsblattes war die Aufgabe 6). Es sollte lediglich zu allen Fehlerfällen eine eigene 'UnoException' Klasse erstellt werden, welche jeweils eine eigene ID besitzen.
   
   
   
