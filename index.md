@@ -86,6 +86,13 @@ Um im späteren fertgen spiel auch eine einzelspielen funktion presentieren zu k
   
   Die Aufgabe in blatt drei bestand darin das UNO-Spiel als "Produkt" fertigzustellen, dazu waren noch einige schritte gefordert.
   
+  #### Einzelarbeit:
+
+Die erste Aufgabe 1) des letzten Übungsblatts war ebenfalls ein Lehrvideo aufzunehmen. Hier wurden die schwersten Themen behandelt, wobei es auch die meisten punkte gab.
+Wir haben empfunden, dass sich die Themen von 'PR2' langsam distanziert haben. Dafür wurden aber Interessante und auch weiterführende Themen ausgewählt.
+Burak Bingöl nahm ein Lehrvideo zum Thema 'Datenstrukturen: Binärbaum, Tree, Trie' auf. Das neue Teammitglied, Mika Richter hat das Thema 'Collections: Comparator, Iterator, Map, Properties, Wildcards'
+behandelt.
+Hier ein Bild zu den beiden Videos:
   
 Der erste teil bestand darin die Karten des Unospiels nun mithilfe eines LiFo-Speichers, also einer einfachen verketteten liste zu verwalten, die von Java vorgefertigten klassen durften natürlich nicht verwendet werden. Der nächste schritt war es nun das Spiel multithreadingfähig zu machen, die Ki´s und die menschlichen spieler sollten ab jetzt in verschiedenen Threads laufen. Als letzten schritt bevor wir zur erstellung einer GUI übergehen konnten war es die geschenisse des spiels mittels einer logdatei festzuhalten, hier sollte jede Spielaktion mit datum und uhrzeit festgehalten werden.
 
