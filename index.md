@@ -28,7 +28,7 @@ nun konnte das Programmieren beginnen.
   Im ersten Übungsblatt 'Videos & das Semesterspiel Uno - Basics' wurde gefordert den Grundbaustein für das Uno Programm zu setzen, sowie neue Programme bzw. Werkzeuge kennen zu lernen.
 Das war von großer Bedeutung, da man alle Mittel die uns vorgestellt wurden im Späteren Verlauf des Semester gebraucht hat.
 
-#Einzelarbeit:
+#### Einzelarbeit:
 
 Die erste Aufgabe 1a) bestand darin, ein Lehrvideo aufzunehmen. Als Einstieg und als Übung für das Gefühl der Einzelarbeit,gab es auf diese Aufgabe zuerst einmal eine Milde Anzahl an Punkten. 
 Dem Studenten Lars Stricker wurde zum Beispiel das Thema 'Objekt-Eigenschaften-Getter-Setter-Konstruktoren' zugewiesen. Dieses Thema musste ausführlich bearbeitet werden.
@@ -40,7 +40,7 @@ In der Aufgabe 1b) bestand ebenfalls darin, ein Lehrvideo aufzunehmen. Hier gab 
 So musste zum Beispiel der Student Alihan Pinarbas das Thema 'Komplexität-O-Notation-P-NP' vorstellen.
 Hier ein Bild zu dem Video:
 
-#Teamarbeit:
+#### Teamarbeit:
 
 
 Wie schon oben erwähnt wurden uns neue Tools/Programme vorgestellt, mit denen wir arbeiten sollten. In der Aufgabe 3 lag der Fokus auf den Umgang mit GitHub. Die Elementaren Aktionen
@@ -63,6 +63,13 @@ Die letzte Aufgabe dieses Übungsblattes war die Aufgabe 6). Es sollte lediglich
   
   Im zweiten blatt lag der fokus darin die innere struktur des spiels zu erweitern.
   
+  #### Einzelarbeit:
+
+Die erste Aufgabe 1) bestand nochmals darin, ein Lehrvideo aufzunehmen. Die Themen wurden Anspruchsvoller, da es nun keine Wiederholung der Themen aus 'Pr1' mehr. Der Student Enes Can Sevim
+musste zum Beispiel das Thema 'Aggregation, Komposition, Enum, Annotation' in einem Video verpacken. Wohingegen Sopithan Goneswaran Das Thema 'Steuerelemente und Ereignisse in Swing' behandelt hat.
+Nach einer kurzen Befragung äußerte sich Enes Can Sevim wie folgt: 'Das Video war viel anstrengender und umpfangreicher als die ersten zwei. Zum Glück hatte ich mich frühzeitig damit beschäftigt,
+sonst wäre es echt knapp geworden. '
+Hier ein Bild zu den beiden Videos:
   
 Die erste aufgabe bestand darin den inneren und den äußeren teil des spiels zu trennen, geschehen sollte dies mittels der implementierung von interfaces.
 Schnell wurden vom kunden extrafunktionalitäten erfragt und so mussten wir zusätzlich zum Normalen Interface für das spiel auch noch ein Erweitertes interface für das manuelle spielen des spiels erstellen.
@@ -78,6 +85,18 @@ Um im späteren fertgen spiel auch eine einzelspielen funktion presentieren zu k
   ### Blatt 3
   
   Die Aufgabe in blatt drei bestand darin das UNO-Spiel als "Produkt" fertigzustellen, dazu waren noch einige schritte gefordert.
+  
+  
+Der erste teil bestand darin die Karten des Unospiels nun mithilfe eines LiFo-Speichers, also einer einfachen verketteten liste zu verwalten, die von Java vorgefertigten klassen durften natürlich nicht verwendet werden. Der nächste schritt war es nun das Spiel multithreadingfähig zu machen, die Ki´s und die menschlichen spieler sollten ab jetzt in verschiedenen Threads laufen. Als letzten schritt bevor wir zur erstellung einer GUI übergehen konnten war es die geschenisse des spiels mittels einer logdatei festzuhalten, hier sollte jede Spielaktion mit datum und uhrzeit festgehalten werden.
+
+Der erste schritt der GUI-Entwicklung war es einen entwurf zu erstellen. Nachdem der Kunde unseren entwurf abgesegnet hatte konnten wir bereits loslegen.
+Die kernfunktionalitäten des spiels mit menüs zur spielererstellung und der ansicht für das tatsächliche spiel waren schnell programmiert, ein weiterer teil der aufgabe war es jedauch auch das laden und speichern per Filechooser möglich zu machen, nach anfänglichen schwierigkeiten konnte das problem jedoch mit ein bisschen recherce gelöst werden.
+
+IM letzten schritt sollte das spiel noch Als eigenständige und ausführbare JAR-Datei spielbar gemacht werden, diese letzte hürde sollte uns allerdings nicht vom erreichen der Studienleitung abhalten.
+
+Bilder der GUI:
+
+
   
   
   ```markdown
