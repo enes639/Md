@@ -30,11 +30,21 @@ nun konnte das Programmieren beginnen.
   Im zweiten blatt lag der fokus darin die innere struktur des spiels zu erweitern.
   
   
-  Die erste aufgabe bestand darin den inneren und den äußeren teil des spiels zu trennen, geschehen sollte dies mittels der implementierung von interfaces.
-  Schnell wurden vom kunden extrafunktionalitäten erfragt und so mussten wir zusätzlich zum Normalen Interface für das spiel auch noch ein Erweitertes interface für das manuelle spielen des spiels erstellen
+Die erste aufgabe bestand darin den inneren und den äußeren teil des spiels zu trennen, geschehen sollte dies mittels der implementierung von interfaces.
+Schnell wurden vom kunden extrafunktionalitäten erfragt und so mussten wir zusätzlich zum Normalen Interface für das spiel auch noch ein Erweitertes interface für das manuelle spielen des spiels erstellen.
+
+
+Eine weitere aufgabe war die Spielgeschehnisse in form des CSV Vormats oder Serialisiert zu speichern und zu Laden. Diese aufgabe sollte unserem team große schwierigkeiten bereiten.
+
+
+Um im späteren fertgen spiel auch eine einzelspielen funktion presentieren zu können durfte natürlich die Implementierung einer KI nicht fehlen. Hierfür musste für unser Programmierniveau im 2 Semester ein einfacher algorhitmus herhalten. Die KI sollte zwei Spielweisen bekommen einmal in form einer defensiven ki die ihre sonderkarten für die Verteidigun aufbewahrt und einer Aggresiven KI die diese für den angriff nutzt. Die Entscheidungslogig Beider KI´s musste zudem noch in einem UML diagramm dargestellt werden.
+//hier uml der kis einfügen
   
   
   ### Blatt 3
+  
+  Die Aufgabe in blatt drei bestand darin das UNO-Spiel als "Produkt" fertigzustellen, dazu waren noch einige schritte gefordert.
+  
   
   ```markdown
 Syntax highlighted code block
