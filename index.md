@@ -103,7 +103,13 @@ IM letzten schritt sollte das spiel noch Als eigenständige und ausführbare JAR
 
 Bilder der GUI:
 
+#### Unser Fazit
 
+Als Zusammenfassung können wir alle als Team mit Überzeugung sagen, dass wir in diesem Studiengang immer wieder an unsere Grenzen gestoßen sind. Daran sind wir auch gewachsen.
+Die Idee die Inhalte der 'PR2' Vorlesung in einem Spiel als Projekt zu verpacken empfanden wir als eine gute. Dadurch war es möglich, das gelernte aktiv anzuwenden und mit
+Problemen die dabei enstanden sind umzugehen. Das Präsentieren der Ergebnisse verstärkte das Gemeinschaftsgefühl der Gruppe und das Selbstbewusstsein für das zukünftige
+Arbeitsleben als Programmierer. Die Kompetezen und Ideen wurden nicht nur Innerhalb der Gruppe, sondern auch in der Einzelarbeit in Form von Lehrvideos einzubringen. Somit konnte man gut
+mitverfolgen wo man mit seinen Fähigkeiten als Student stand. Es war rückblickend ausschlaggebend eine Struktur zur Aufgabenverteilung zu gestalten. Nur so konnte man die Aufgaben gerecht und fair verteilen. Das Format der Vorlesung war unsrer meinung nach sehr gelungen, durch das hochladen der Vorlesungsmaterialien in videoform Konnte man jeder zeit die vorlesung in seinem eigenen tempo lernen und verstehen.
   
   
   ```markdown
